@@ -92,3 +92,43 @@ header {
   font-weight: 800;
   
 }
+
+/* Main */
+main {
+  display: flex;
+  justify-content:space-between;
+  
+}
+
+.Main-left {
+  width: 50%;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Main-left article {
+  width: 80%;
+  color:rgba(74, 74, 74, 0.687);
+  font-size: small;
+}
+h2 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #000000;
+  
+}
+
+.Main-right 
+{
+  display: flex;
+  align-items: center;
+  width: 50%;
+
+}
+.Main-right img 
+{
+height: 80%;
+width: 80%;
+}
