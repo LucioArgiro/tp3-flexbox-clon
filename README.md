@@ -7,16 +7,13 @@ Este proyecto consiste en el desarrollo de una página web estática utilizando 
 - **HTML5:** Para estructurar el contenido del sitio de manera semántica.
 - **CSS3:** Para dar estilo visual y responsividad utilizando Flexbox.
 - **Google Fonts / Font Awesome:** Para iconografía y tipografía moderna.
-- <div align="left">
+ <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
 ###
-
-## 🧩 Estructura del proyecto
-
 
 ## 📌 Funcionalidades
 
